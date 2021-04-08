@@ -1,0 +1,14 @@
+C:\Users\shane\Documents\Projects\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Presentation\bin\Debug\netcoreapp3.1\Hahn.ApplicationProcess.February2021.Presentation.deps.json
+C:\Users\shane\Documents\Projects\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Presentation\bin\Debug\netcoreapp3.1\Hahn.ApplicationProcess.February2021.Presentation.dll
+C:\Users\shane\Documents\Projects\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Presentation\bin\Debug\netcoreapp3.1\Hahn.ApplicationProcess.February2021.Presentation.pdb
+C:\Users\shane\Documents\Projects\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Presentation\bin\Debug\netcoreapp3.1\Hahn.ApplicationProcess.February2021.Data.dll
+C:\Users\shane\Documents\Projects\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Presentation\bin\Debug\netcoreapp3.1\Hahn.ApplicationProcess.February2021.Data.pdb
+C:\Users\shane\Documents\Projects\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Presentation\obj\Debug\netcoreapp3.1\Hahn.ApplicationProcess.February2021.Presentation.csprojAssemblyReference.cache
+C:\Users\shane\Documents\Projects\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Presentation\obj\Debug\netcoreapp3.1\Hahn.ApplicationProcess.February2021.Presentation.AssemblyInfoInputs.cache
+C:\Users\shane\Documents\Projects\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Presentation\obj\Debug\netcoreapp3.1\Hahn.ApplicationProcess.February2021.Presentation.AssemblyInfo.cs
+C:\Users\shane\Documents\Projects\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Presentation\obj\Debug\netcoreapp3.1\Hahn.ApplicationProcess.February2021.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\shane\Documents\Projects\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Presentation\obj\Debug\netcoreapp3.1\Hahn.ApplicationProcess.February2021.Presentation.csproj.CopyComplete
+C:\Users\shane\Documents\Projects\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Presentation\obj\Debug\netcoreapp3.1\Hahn.ApplicationProcess.February2021.Presentation.dll
+C:\Users\shane\Documents\Projects\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Presentation\obj\Debug\netcoreapp3.1\Hahn.ApplicationProcess.February2021.Presentation.pdb
+C:\Users\shane\Documents\Projects\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Presentation\bin\Debug\netcoreapp3.1\Hahn.ApplicationProcess.February2021.Domain.dll
+C:\Users\shane\Documents\Projects\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Presentation\bin\Debug\netcoreapp3.1\Hahn.ApplicationProcess.February2021.Domain.pdb

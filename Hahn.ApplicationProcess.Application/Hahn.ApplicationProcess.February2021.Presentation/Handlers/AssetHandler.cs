@@ -10,6 +10,7 @@ using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -35,7 +36,11 @@ namespace Hahn.ApplicationProcess.February2021.Presentation.Handlers
             bool depEnumIsvalid = Enum.IsDefined(typeof(DepartmentEnum), newAsset.Department);
             DateTime purchaiseDateValidation = DateTime.Now.AddYears(-1);
 
-            if (depCountryIsValid == false || depEnumIsvalid == false || purchaiseDateValidation > newAsset.PurchaseDate) return new AssetResponse
+            //Email Validation
+            Regex regex = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$");
+            Match match = regex.Match(newAsset.EMailAdressOfDepartment);
+
+            if (!match.Success || depCountryIsValid == false || depEnumIsvalid == false || purchaiseDateValidation > newAsset.PurchaseDate) return new AssetResponse
             {
                 Status = false
             };

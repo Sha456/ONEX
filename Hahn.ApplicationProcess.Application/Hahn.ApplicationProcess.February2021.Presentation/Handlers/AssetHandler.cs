@@ -38,7 +38,7 @@ namespace Hahn.ApplicationProcess.February2021.Presentation.Handlers
 
             //Email Validation
             Regex regex = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$");
-            Match match = regex.Match(newAsset.EMailAdressOfDepartment);
+            Match match = regex.Match(newAsset.EMailAdressOfDepartment); 
 
             if (!match.Success || depCountryIsValid == false || depEnumIsvalid == false || purchaiseDateValidation > newAsset.PurchaseDate) return new AssetResponse
             {
